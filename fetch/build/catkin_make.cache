@@ -1,0 +1,2 @@
+darknet_ros/darknet_ros:darknet_ros/darknet_ros_msgs:fetch_gazebo-gazebo9/fetch_gazebo:fetch_gazebo-gazebo9/fetch_gazebo_demo:fetch_gazebo-gazebo9/fetch_simulation:fetch_gazebo-gazebo9/fetchit_challenge:pocketsphinx
+-DCATKIN_DEVEL_PREFIX=/home/llzmgjzhy/fetch/devel -DCMAKE_INSTALL_PREFIX=/home/llzmgjzhy/fetch/install -G Unix Makefiles
